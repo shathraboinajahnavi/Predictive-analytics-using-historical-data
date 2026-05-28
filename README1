@@ -1,0 +1,12 @@
+# Predictive Analytics Using Historical Data
+
+## Project Overview
+This project builds a predictive modeling pipeline to forecast future trends based on historical data. 
+
+## Workflow Implemented
+1. **Data Preprocessing:** Cleaned historical datasets, handled missing data, and structured time-series indices.
+2. **Modeling:** Implemented a Linear Regression model to identify and project long-term data trends.
+3. **Evaluation:** Evaluated model performance using Mean Absolute Error (MAE) and R-squared metrics.
+
+## Key Visualizations
+![Future Forecast](forecast_plot.png)
